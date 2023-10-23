@@ -1,0 +1,19 @@
+.artikel-info {
+  width: 80vw;
+  margin: 40px auto 40px auto;
+}
+.artikel-info img {
+  width: 100%;
+}
+
+.info {
+  width: 80%;
+  margin: 0 auto;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+.m-t-30 {
+  margin-top: 30px;
+}

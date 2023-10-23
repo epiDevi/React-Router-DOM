@@ -1,0 +1,9 @@
+header {
+  background: url("../public/headerpic.jpg") no-repeat center;
+  background-size: cover;
+  width: 100vw;
+  height: 50vh;
+}
+main {
+  padding: 150px;
+}
